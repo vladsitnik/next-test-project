@@ -44,13 +44,13 @@ docker-compose up --build
 
 Service	URL
 Frontend App	http://localhost:3000
-GraphQL API	http://localhost:4000
-WebSocket Server	ws://localhost:3001
+GraphQL API 	http://localhost:4000
+WebSocket Server ws://localhost:3001
 ```
 
 ## Test Login
 
 ```bash
-Username	admin
-Password    admin
+Username  admin
+Password  admin
 ```
