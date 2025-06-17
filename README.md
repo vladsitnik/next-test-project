@@ -22,7 +22,7 @@ next-test-project/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/vladsitnik/next-test-project.git
+git clone 
 cd next-test-project
 ```
 ### 2. Add Environment Variables
